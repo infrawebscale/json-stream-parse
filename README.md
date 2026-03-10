@@ -1,4 +1,4 @@
-# large-json-processor
+# json-stream-parse
 
 A Node.js utility for processing large JSON files using streaming, avoiding the memory overhead of loading an entire JSON document at once.
 

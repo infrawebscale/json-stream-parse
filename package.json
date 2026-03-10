@@ -1,5 +1,5 @@
 {
-  "name": "large-json-processor",
+  "name": "json-stream-parse",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
