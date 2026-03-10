@@ -1,0 +1,8 @@
+{
+  "name": "large-json-processor",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "JSONStream": "^1.3.5"
+  }
+}
